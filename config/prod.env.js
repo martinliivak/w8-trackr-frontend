@@ -2,5 +2,5 @@
 
 module.exports = {
     NODE_ENV: '"production"',
-    API_ENDPOINT: '"http://localhost:5000/api/"'
+    API_ENDPOINT: '"https://localhost:5001/api/"'
 }
